@@ -9,6 +9,6 @@ It also uses regular expression to find email addresses in many different forms.
 Use: python find_emails.py [url]
 """
 
-#__author__ = "Abdul Azeez Omar"
-#__email__ = "aoa8363@rit.edu"
-#__date__ = "Feb 2018"
+#author = "Abdul Azeez Omar"
+#email = "aoa8363@rit.edu"
+#date = "Feb 2018"
