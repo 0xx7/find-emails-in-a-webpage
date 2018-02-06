@@ -3,7 +3,7 @@
 """
 find_emails.py:
 
-This script finds all email addresses in a given webpage. It finds email addresses in <p>, <href>, and <center> tags. 
+This script finds all email addresses in a given webpage. It finds email addresses in "p", "href", and "center" tags. 
 It also uses regular expression to find email addresses in many different forms.
 
 Use: python find_emails.py [url]
